@@ -23,7 +23,7 @@ body {
 	box-shadow: 0px 10px 41px -17px rgba(84, 88, 247, 1);
 }
 .box .background-image {
-	background: url('https://thumbs-prod.si-cdn.com/3PiVtZ5cyyaEXyNYt-53V0f23eY=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/a8/51/a851be96-2508-422f-88fa-5aee6fc7ada3/stand_in_cover_pic.jpg');
+	 background: url('https://thumbs-prod.si-cdn.com/3PiVtZ5cyyaEXyNYt-53V0f23eY=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/a8/51/a851be96-2508-422f-88fa-5aee6fc7ada3/stand_in_cover_pic.jpg');
 	background-position: center bottom;
 	background-size: cover;
 	background-repeat: none;
@@ -40,7 +40,8 @@ body {
 	align-items: center;
 }
 .box .content-area .user-image .circle {
-	background: url('https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX172_CR0,0,172,256_AL_.jpg');
+/*	background: url('https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX172_CR0,0,172,256_AL_.jpg');*/
+background: url('/default.png');
 	background-position: center center;
 	background-size: cover;
 	background-repeat: none;
